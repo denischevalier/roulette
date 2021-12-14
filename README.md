@@ -21,5 +21,5 @@ selected:  [foz bar]
 Run the following command in a terminal:
 
 ```bash
-go install github.com/denischevalier/roulette
+go install github.com/denischevalier/roulette@latest
 ```
